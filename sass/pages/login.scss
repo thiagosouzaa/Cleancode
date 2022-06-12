@@ -1,0 +1,5 @@
+.container {
+    p {
+        @include texts-style ($btn-background, 22px, "sans-serif")
+    }
+}
